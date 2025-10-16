@@ -9,7 +9,7 @@
 
 **🎯 An interactive IPL cricket dashboard displaying team information, latest matches, and match history with dynamic routing**
 
-[**🎮 View Demo**](#) | [**💻 Live App**](#)
+[**🎮 View Demo**](https://ipldashboardappbyarun.vercel.app/) 
 
 </div>
 
